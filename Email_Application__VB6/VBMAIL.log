@@ -1,0 +1,16 @@
+Line 148: Class MSMAPI.MAPIMessages of control MapiMess was not a loaded control class.
+Line 160: Class MSMAPI.MAPISession of control MapiSess was not a loaded control class.
+Line 151: The property name _ExtentX in MapiMess is invalid.
+Line 152: The property name _ExtentY in MapiMess is invalid.
+Line 153: The property name _Version in MapiMess is invalid.
+Line 154: The property name AddressEditFieldCount in MapiMess is invalid.
+Line 155: The property name AddressModifiable in MapiMess is invalid.
+Line 156: The property name AddressResolveUI in MapiMess is invalid.
+Line 157: The property name FetchSorted in MapiMess is invalid.
+Line 158: The property name FetchUnreadOnly in MapiMess is invalid.
+Line 163: The property name _ExtentX in MapiSess is invalid.
+Line 164: The property name _ExtentY in MapiSess is invalid.
+Line 165: The property name _Version in MapiSess is invalid.
+Line 166: The property name DownloadMail in MapiSess is invalid.
+Line 167: The property name LogonUI in MapiSess is invalid.
+Line 168: The property name NewSession in MapiSess is invalid.
